@@ -1,0 +1,20 @@
+name: jan1
+version: 0.1.0
+
+# authors:
+#   - name <email@example.com>
+
+# description: |
+#   Short description of jan1
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+  celestine:
+    github: celestinecr/celestine
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+# license: MIT
